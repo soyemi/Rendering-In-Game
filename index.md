@@ -1,13 +1,31 @@
-# It works! ;-)
+
+这是一个关于计算机图形学与游戏开发的个人Wiki。
+
+------
+
+## 目录
+
++ 计算几何Computional Geometry
+	+ Constructive solid geometry
+	+ 凸包计算Convex
+	+ Marching Squares and Marching Cubes
+	+ 维诺图 Voronoi Diagram
++ 采样Sampling
+	+ 随机数与噪声
+
++ 渲染Rendering
+	+ 光栅化与光线投射rasterization and ray casting
+	+ 路径追踪与光线跟踪
+	+ BRDF
++ 实时渲染Real-Time Rendering
+	+ 渲染管线Graphics Pipeline
+	
++ 物理模拟Physical Simulation
+	+ Verlet Integration
 
 
-## Section 1
+## 其他
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+有什么想说的在下面留言吧~
 
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+[gimmick:Disqus](game-rendering)
